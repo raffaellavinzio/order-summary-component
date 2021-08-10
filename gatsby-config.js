@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/order-summary-component",
   siteMetadata: {
     title: `Frontend Mentor | Order summary card`,
     description: `UI project from frontendmaster.com`,

@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/raffaellavinzio/order-summary-component)
-- Live Site URL: [git pages](https://your-live-site-url.com)
+- Live Site URL: [git pages](https://raffaellavinzio.github.io/order-summary-component/)
 
 ## My process
 
